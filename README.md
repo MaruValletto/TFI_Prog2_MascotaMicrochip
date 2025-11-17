@@ -31,9 +31,9 @@ Motivos del dominio
 - Archivo de configuración: config.properties
 
 Ejemplo:
-db.url=jdbc:mysql://localhost:3306/vetdb?useSSL=false&serverTimezone=UTC
-db.user=root
-db.password=1234
+- db.url=jdbc:mysql://localhost:3306/vetdb?useSSL=false&serverTimezone=UTC
+- db.user=root
+- db.password=1234
 
 ---
 
