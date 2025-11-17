@@ -39,7 +39,7 @@ Ejemplo:
 
 🗂️ 3. Scripts SQL y creación de la base
 
-Dentro de la carpeta /sql/ se incluyen:
+Dentro de la carpeta /SQL/ se incluyen:
 
 01_create_database.sql
 - Crea la base de datos
@@ -130,7 +130,7 @@ Microchips – Funcionalidades
 ---
 
 📐 6. UML del proyecto
-La carpeta /uml/ contiene versiones PNG y PDF del diagrama con:
+La carpeta /UML/ contiene versiones PNG del diagrama con:
 - Entidades
 - Relación 1 → 1
 - Herencia
