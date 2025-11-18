@@ -167,5 +167,5 @@ Dentro del repositorio se incluye la carpeta /informe/ con el informe final, que
 ---
 
 🎥 9. Video de presentación
-📌 Enlace al video (cuando esté listo):
-👉 [Ver video de presentación](URL_DEL_VIDEO)
+📌 Enlace al video :
+👉 **https://youtu.be/rITQm9V4uXg**
