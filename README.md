@@ -140,7 +140,7 @@ La carpeta /UML/ contiene versiones PNG del diagrama con:
 ---
 
 📄 7. Informe (PDF)
-Dentro del repositorio se incluye la carpeta /informe/ con el informe final, que contiene:
+Dentro del repositorio se incluye la carpeta /Informe/ con el informe final, que contiene:
 - Justificación del dominio
 - Base de datos + SQL
 - UML completo
